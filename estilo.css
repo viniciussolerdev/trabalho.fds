@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(208, 214, 203);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-size: 1.20rem;
+}
+
+li {
+    line-height: 1.5rem;
+}
+
+.guitarra {
+   object-fit: contain;
+   border-radius: 10px;
+   width: 15rem;
+}
+
+.eua {
+    object-fit: contain;
+    width: 15rem;
+}
+
+.frç {
+    object-fit: contain;
+    width: 15rem;
+}
+
+.sui {
+    object-fit: contain;
+    width: 15rem;
+}
+
+table {
+    background-color: rgb(104, 179, 179);
+}
+
+a:hover {
+    color: rgb(241, 82, 82);
+}
